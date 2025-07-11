@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A passionate AI Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani767&label=Profile%20views&color=0e75b6&style=flat" alt="Pandaforever" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaforever111&label=Profile%20views&color=0e75b6&style=flat" alt="Pandaforever" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaforever111" alt="shivani767" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaforever111" alt=pandaforever111" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivani38373" target="blank"><img src="https://img.shields.io/twitter/follow/shivani38373?logo=twitter&style=for-the-badge" alt="shivani38373" /></a> </p>
 
